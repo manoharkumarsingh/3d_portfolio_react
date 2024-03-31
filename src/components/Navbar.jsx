@@ -9,17 +9,17 @@ const Navbar = () => {
         <img src={logo} alt="logo" className="w-18 h-18 object-contain" />
       </NavLink> */}
       <nav className="flex text-lg gap-7 font-medium  ">
-        <NavLink
+        {/* <NavLink
           to="/"
           className={({ isActive }) =>
             isActive ? "text-blue-600" : "text-black"
           }
         >
           Home
-        </NavLink>
+        </NavLink> */}
 
         <NavLink
-          to="/about"
+          to="/"
           className={({ isActive }) =>
             isActive ? "text-blue-600" : "text-black"
           }

@@ -222,7 +222,7 @@ export const projects = [
     name: "Blog",
     description:
       "Crafted an engaging blog website using Next.js, where users seamlessly register, log in, and create captivating content. Incorporated JWT for secure authentication and Tailwind CSS for a sleek design. Implemented a feature-rich user profile, allowing interaction with other users' content, fostering a dynamic and user-friendly experience.",
-    link: "https://carhub-ten-chi.vercel.app/",
+    link: "https://nextjs-fullstack-quote-app.vercel.app/",
   },
 
   {

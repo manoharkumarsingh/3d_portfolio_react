@@ -1,14 +1,4 @@
-import {
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  community,
-  tcs,
-  quest,
-  william,
-  happlab,
-} from "../assets/images";
+import { community, tcs, quest, william, happlab } from "../assets/images";
 import {
   car,
   contact,
@@ -164,7 +154,7 @@ export const experiences = [
     company_name: "William O'neil India",
     icon: william,
     iconBg: "#a2d2ff",
-    date: "Aug 2028 - Nov 2019",
+    date: "Aug 2018 - Nov 2019",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -178,7 +168,7 @@ export const experiences = [
     company_name: "Happlabs Software llp",
     icon: happlab,
     iconBg: "#a2d2ff",
-    date: "Aug 2028 - Nov 2019",
+    date: "Aug 2017 - Nov 2018",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
